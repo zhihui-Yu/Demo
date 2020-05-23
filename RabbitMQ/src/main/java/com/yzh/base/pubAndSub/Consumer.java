@@ -1,4 +1,4 @@
-package com.yzh.base.sub;
+package com.yzh.base.pubAndSub;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
