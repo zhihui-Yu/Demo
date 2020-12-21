@@ -24,7 +24,7 @@ public class MongoDBJDBC {
     //获取集合
     private static MongoCollection<Document> collection = null;
     //存放文档集合
-    private static  List<Document> list = new ArrayList<>();
+    private static final List<Document> list = new ArrayList<>();
 
     public static void main(String[] args) {
         connectToMongo("localhost", 27017);
