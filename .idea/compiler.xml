@@ -9,10 +9,12 @@
         <module name="mongo" />
         <module name="redis" />
         <module name="log4j2" />
+        <module name="es" />
         <module name="RabbitMQ" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="14">
+      <module name="es" target="14" />
       <module name="log4j2" target="14" />
       <module name="mongo" target="14" />
       <module name="RabbitMQ" target="14" />
