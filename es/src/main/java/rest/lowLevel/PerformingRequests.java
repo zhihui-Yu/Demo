@@ -62,5 +62,7 @@ public class PerformingRequests {
                 // todo Handle the failure
             }
         });
+
+        cancellable.cancel();
     }
 }
