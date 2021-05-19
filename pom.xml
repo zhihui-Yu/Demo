@@ -15,5 +15,6 @@
         <module>mongo</module>
         <module>RabbitMQ</module>
         <module>redis</module>
+        <module>netty</module>
     </modules>
 </project>
