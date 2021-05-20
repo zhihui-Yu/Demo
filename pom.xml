@@ -16,5 +16,6 @@
         <module>RabbitMQ</module>
         <module>redis</module>
         <module>netty</module>
+        <module>poi</module>
     </modules>
 </project>
