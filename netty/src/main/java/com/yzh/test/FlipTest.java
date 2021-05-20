@@ -1,4 +1,4 @@
-package com.yzh.nio.jdk.example;
+package com.yzh.test;
 
 import java.nio.IntBuffer;
 
