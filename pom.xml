@@ -17,5 +17,6 @@
         <module>redis</module>
         <module>netty</module>
         <module>poi</module>
+        <module>mybatis</module>
     </modules>
 </project>
