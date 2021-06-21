@@ -18,5 +18,6 @@
         <module>netty</module>
         <module>poi</module>
         <module>mybatis</module>
+        <module>twilio</module>
     </modules>
 </project>
